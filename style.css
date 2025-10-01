@@ -1,0 +1,39 @@
+header
+{
+    background-color:#521;
+    height:100px;
+    width:1500px;
+}
+a
+{
+    color:#310;
+}
+nav
+{
+    height:20px;
+    width:1500px;
+    background-color:#743;
+    text-align:center;
+    padding-top:4px;
+}
+article
+{
+    height:500px;
+    width:740px;
+    background-color:#b87;
+    overflow:auto;
+}
+aside
+{
+    height:500px;
+    width:740px;
+    background-color:#da9;
+    overflow:auto;
+    float:right;
+} 
+footer
+{
+    background-color:#521;
+    height:100px;
+    width:1500;
+}
