@@ -1,14 +1,14 @@
 header
 {
     background-color:#eee;
-    height:100px;
-    width:1112px;
+    height:10%;
+    width:85.5%;
     float:right;
     overflow:auto;
 }
 a
 {
-    color:#310;
+    color:#000;
 }
 nav
 {
@@ -19,25 +19,26 @@ nav
 }
 div
 {
-    height:900px;
-    width:400px;
+    height:100%;
+    width:14%;
     background-color:#ddd;
     overflow:auto;
     float:left;
+    padding-left:0.5%;
 } 
 article
 {
-    height:500px;
-    width:740px;
-    background-color:#ddd;
-    overflow:auto;
-    float:right;
+    height:90%;
+    width:85.5%;
+    background-color:#ccc;
+    margin-left:14.5%
 }
 footer
 {
-    background-color:#521;
-    height:100px;
-    width:1500;
+    background-color:#eee;
+    height:10%;
+    width:85.5%;
+    margin-left:14.5%;
 }
 
 
