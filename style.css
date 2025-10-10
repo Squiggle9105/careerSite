@@ -38,16 +38,16 @@ nav
     width:15%;
     margin-top:10%;
 }
-#hdrimg1
+#hdrimg
 {
     float:right;
-    margin-top:1%;
+    margin-top:0;
+    width:10%;
 }
 #hdrimg2
 {
     float:right;
     margin-top:1%;
-    width:15%;
 }
 div
 {
