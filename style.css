@@ -6,6 +6,10 @@ header
     float:right;
     overflow:auto;
 }
+#a2
+{
+    color:#000
+}
 a
 {
     color:#BBAA77;
@@ -49,6 +53,7 @@ nav
     float:right;
     margin-top:1%;
 }
+
 div
 {
     height:100%;
@@ -88,5 +93,5 @@ footer
 .bodytxt
 {
     color:#110;
-    font-size:125%;
+    font-size:120%;
 }
